@@ -30,7 +30,7 @@ A simple to-do list application built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Screenshot
-![To-Do List App Screenshot](screenshot.png)
+![Screenshot 2025-02-25 032843](https://github.com/user-attachments/assets/75ad8f43-e982-4c3c-81f9-98f73f6c5c51)
 
 ## Future Enhancements
 - Add local storage to save tasks between sessions.
